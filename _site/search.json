@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "utterance.html",
+    "href": "utterance.html",
+    "title": "Utterance setup",
+    "section": "",
+    "text": "Utterances는 GitHub Issues를 기반으로 웹사이트나 블로그에 댓글 기능을 추가할 수 있는 오픈 소스 도구입니다. 사용자가 댓글을 달면 그 댓글은 지정된 저장소의 Issue로 추가되며, 웹사이트에서 댓글을 관리하고 표시할 수 있습니다."
+  },
+  {
+    "objectID": "utterance.html#utterance란",
+    "href": "utterance.html#utterance란",
+    "title": "Utterance setup",
+    "section": "",
+    "text": "Utterances는 GitHub Issues를 기반으로 웹사이트나 블로그에 댓글 기능을 추가할 수 있는 오픈 소스 도구입니다. 사용자가 댓글을 달면 그 댓글은 지정된 저장소의 Issue로 추가되며, 웹사이트에서 댓글을 관리하고 표시할 수 있습니다."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
